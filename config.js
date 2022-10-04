@@ -49,32 +49,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/itsme_danuu' // ig
-global.sgh = 'https://github.com/ekadanuarta/' // github
-global.sgc = 'https://chat.whatsapp.com/I9d5OyutWnA6BulfShh9tr' // group whatsapp
+global.sig = 'https://instagram.com/xianzhe_xx' // ig
+global.sgh = 'https://github.com/xianzhe2/' // github
+global.sgc = 'https://chat.whatsapp.com/HP5Pbp9MT0eIaC5lfJgw9A' // group whatsapp
 global.sdc = '___'//discord
 global.snh = '_____' // my youtube channel
-global.sfb = 'https://www.facebook.com/itsmedann' // facebook
+global.sfb = '_____' // facebook
 global.syt = '_____' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '6288221400832' //dana
-global.povo = '____' //ovo
-global.pgopay = '6288221400832' //gopay
+global.pdana = '6285326781097' //dana
+global.povo = '___' //ovo
+global.pgopay = '__' //gopay
 global.plinkaja = '___' //link aja
-global.ppulsa = '6288221400832' //telkomsel
-global.ppulsa2 = '6288221400832' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/Ekadanuarta'
+global.ppulsa = '6285326781097' //telkomsel
+global.ppulsa2 = '___' // kalau ada kartu lain isi aja
+global.psaweria = '___'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '6288221400832'
-global.namebot = 'AnyaBot V2'
-global.nameown = 'ItsmeDann'
+global.nomorown = '6285326781097'
+global.namebot = 'XianzheBot V1'
+global.nameown = 'Xianzhe'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'Ekadanuarta' // nama github lu
-global.linkgithub = 'https://github.com/ekadanuarta' // tarok link github lu
+global.namagithub = 'Xianzhe2' // nama github lu
+global.linkgithub = 'https://github.com/xianzhe2' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -85,7 +85,7 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288221400832', 'ItsmeDann', true],
+  ['6285326781097', 'Xianzhe', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
